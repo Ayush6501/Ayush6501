@@ -56,6 +56,7 @@ Developer at Innovators Hub | Javascript Developer | Full Stack Development | Ma
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush6501&theme=synthwave&hide=glsl,python" />
 </a>
 
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ayush6501&&show_icons=true&theme=synthwave&line_height=27&v=5" alt="Ayush's GitHub Stats" />
 
