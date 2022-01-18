@@ -53,15 +53,15 @@ Developer at Innovators Hub | Javascript Developer | Full Stack Development | Ma
 
 
 <a href="https://github.com/Ayush6501">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush6501&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush6501&theme=synthwave&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush6501&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ayush's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ayush6501&&show_icons=true&theme=synthwave&line_height=27&v=5" alt="Ayush's GitHub Stats" />
 
 
 <a href="https://github.com/Ayush6501/IH-Website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush6501&repo=IH-Website&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush6501&repo=IH-Website&theme=synthwave" />
 </a>    
 
 
