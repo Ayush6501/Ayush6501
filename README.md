@@ -1,16 +1,16 @@
  # <a href="https://www.linkedin.com/in/ayush-majumdar/">Ayush Majumdar</a>
  
  <a href="https://twitter.com/AyxshM7">
-  <img align="left" alt="Ayush's Twitter" width="22px" src="https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png" />
+  <img align="left" alt="Ayush's Twitter" width="32px" src="https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png" />
 </a>
 <a href="https://www.linkedin.com/in/ayush-majumdar/">
-  <img align="left" alt="Ayush's Linkdein" width="22px" src="https://w7.pngwing.com/pngs/887/616/png-transparent-linkedin-icon-linkedin-text-rectangle-logo.png" />
+  <img align="left" alt="Ayush's Linkdein" width="32px" src="https://iconape.com/wp-content/files/yd/367773/svg/logo-linkedin-logo-icon-png-svg.png" />
 </a>
 <a href="https://github.com/Ayush6501">
-  <img align="left" alt="Ayush's Github" width="22px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+  <img align="left" alt="Ayush's Github" width="32px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 </a>
 <a href="https://instagram.com/__ayxsh__">
-  <img align="left" alt="Ayush's Instagram" width="22px" src="https://w7.pngwing.com/pngs/41/733/png-transparent-instagram-logo-computer-icons-logo-blog-instagram-purple-violet-text.png" />
+  <img align="left" alt="Ayush's Instagram" width="32px" src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png" />
 </a>
 
 <br/>
