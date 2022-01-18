@@ -10,7 +10,7 @@
   <img align="left" alt="Ayush's Instagram" width="32px" src="https://image.similarpng.com/very-thumbnail/2020/06/Instagram-logo-transparent-PNG.png" />
 </a>
 <a href="https://www.linkedin.com/in/ayush-majumdar/">
-  <img align="left" alt="Ayush's Linkdein" width="32px" src="https://iconape.com/wp-content/files/yd/367773/svg/logo-linkedin-logo-icon-png-svg.png" />
+  <img align="left" alt="Ayush's Linkdein" width="32px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
 </a>
 
 <br/>
