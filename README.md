@@ -16,10 +16,10 @@
 <br/>
 <br/>
 
-Developer at Innovators Hub | Javascript Developer | Full Stack Development | Machine Learning Enthusiast| Deep Learning | React Development | UI Develpoment | Python | Data Structures & Algorithm
+Data Science Intern at University of Illinois Urbana Champaign | Graduate Research Assitant | Machine Learning Enthusiast | Deep Learning | React Development | UI Develpoment | Python | Data Structures & Algorithm
 
 ## About :sunglasses:
-3rd year BTech Computer Science student. Currently working as a Full Stack developer and CSE Team Head Member at Innovators Hub. Passionate about Web Development, Javascript & Machine Learning. Also, have some experience in Deep Learning and Computer Vision.
+Graduate MS in Data Science student. Currently working as a Data Science Intern with the University of Illinois Urbana Champaign Decision Supports team. Passionate about Data Pipelining, Web Development, Javascript & Machine Learning. Also, have some experience in Deep Learning and Computer Vision.
 
 <!-- ## Communities :dancers:
 - Contributer at [Student Code-in](https://scodein.tech/) ( An Open Source organization.)
@@ -27,14 +27,14 @@ Developer at Innovators Hub | Javascript Developer | Full Stack Development | Ma
 - Campus Ambassador at [HackerEarth](https://www.hackerearth.com/challenges/) -->
 
 ## Technologies :fire:
+- Machine Learning 
+- Computer Vision
+- Deep Learning
 - MERN Stack.
 - Apollo GraphQL.
 - NodeJS.
 - Python.
 - Figma
-- Machine Learning 
-- Computer Vision
-- Deep Learning
 
 **Languages and Tools:**  
 
